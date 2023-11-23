@@ -1,0 +1,15 @@
+img{
+    width: 400px;
+}
+h1{
+    font-size: 35px;
+    text-decoration: underline double green;
+    font-family: 'Quicksand', sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+}
+p{
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    color: darkblue;
+}
